@@ -1,0 +1,23 @@
+G04 This is an RS-274x file exported by *
+G04 gerbv version 2.8.0-rc.1~d7f42a *
+G04 More information is available about gerbv at *
+G04 https://gerbv.github.io/ *
+G04 --End of header info--*
+%MOIN*%
+%FSLAX36Y36*%
+%IPPOS*%
+G04 --Define apertures--*
+%ADD10C,0.0080*%
+%ADD11C,0.0060*%
+%ADD12C,0.0100*%
+G04 --Start main section--*
+G54D12*
+G01X1212190Y7072110D02*
+G01X4440540Y7072110D01*
+G01X4440540Y1954000D02*
+G01X4440540Y7072110D01*
+G01X1212190Y1954000D02*
+G01X4440540Y1954000D01*
+G01X1212190Y1954000D02*
+G01X1212190Y7072110D01*
+M02*
